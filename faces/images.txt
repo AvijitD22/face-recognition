@@ -1,0 +1,1 @@
+All images for training model will be stored in current folder
